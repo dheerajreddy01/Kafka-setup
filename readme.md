@@ -28,3 +28,5 @@ Producer Consumer communication illustrative understanding
 Consumer Group and Offsets
 
 [diagram6](docs/img/diagram6.png)
+
+Kafka-ui: [localhost:8090]()
